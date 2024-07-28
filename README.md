@@ -3,13 +3,13 @@
 
 ## Step 1: Local Testing
 1. Clone the Repository:
-   I started by cloning the project repository from GitHub.
+   Clone the project repository from GitHub.
    ```sh
    git clone https://github.com/kartik-paliwa1/Portofolio-API
    ```
 
 2. Set Up Environment Variables:
-   Next, I created a `.env` file and configured the necessary environment variables.
+   Create a `.env` file and configured the necessary environment variables.
    ```plaintext
    DOMAIN=""
    PORT=3000
@@ -19,7 +19,6 @@
    ```
 
 3. Install Dependencies and Start the Project:
-   Finally, I installed the required dependencies and started the application using npm.
    ```sh
    npm install
    npm run start
